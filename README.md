@@ -14,8 +14,7 @@ I am a researcher in the field of **Agronomy**, with interest and experience in:
 - 🌧️ Extreme events (droughts and heavy rainfall)  
 - 🗺️ Geoprocessing applied to hydrology  
 - 📊 Data analysis using **R** and **Python**  
-- 🔎 Data validation and statistical distribution fitting  
-- 🛰️ Remote sensing and satellite-based data analysis  
+- - 🛰️ Remote sensing and satellite-based data analysis  
 
 ---
 
