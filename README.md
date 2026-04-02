@@ -20,7 +20,7 @@ I am a researcher in the field of **Agronomy**, with interest and experience in:
 
 ### 📄 Academic Profile
 
-- [Lattes CV (http://lattes.cnpq.br/8643110803913959)
+- Lattes CV (http://lattes.cnpq.br/8643110803913959)
 
 ---
 
